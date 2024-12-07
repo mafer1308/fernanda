@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <html>
@@ -8,7 +9,8 @@
 <h3> lista de intem </h3>
 <ul>
 <li> Bandanas lisas azuis, amarelas, rosas, brancas, pretas e vermelhas </li>
-<img src= "https://images.app.goo.gl/BKw1wdfS6PCPxKqd6" >
+<img src="https://images.app.goo.gl/BKw1wdfS6PCPxKqd6">
+<img src="https://revistatextil.com.br/wp-content/uploads/2021/03/unnamed-2.jpg">
 <li> Bandanas com desenhos azuis, amarelas, rosas, verdes e vermelhas </li>
 </ul>
 </body>
